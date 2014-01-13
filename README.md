@@ -4,6 +4,10 @@
 
 Simple JavaScript library to help you import your Treehouse earned points to your website.
 
+##Demo
+
+A demo on github [link](http://whyounes.github.io/TreehousePoints/demos.html)
+
 ##Usage
 
 Include the JavaScript library and the dependencies in your HTML.( see `test/` folder  for an example )
