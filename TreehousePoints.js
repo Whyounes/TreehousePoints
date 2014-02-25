@@ -17,17 +17,17 @@
         this.circle.values = [];
         this.count = 0; 
         this.colors = { 
-                        "html": "#39ADD1", 
-                        "css": "#2570A8", 
-                        "javascript": "#913B53", 
-                        "ruby": "#E15258", 
-                        "ios": "#53BBB4", 
-                        "business": "#F9845B", 
-                        "android": "#51B46D", 
-                        "php": "#665885", 
-                        "wordpress": "#9D8AC7", 
-                        "design": "#E0AB18", 
-                        "dev tools": "#556B7C",
+                        "HTML":"#39ADD1",
+                        "CSS":"#2570A8",
+                        "JavaScript":"#913B53",
+                        "Ruby":"#E15258",
+                        "iOS":"#53BBB4",
+                        "Business":"#F9845B",
+                        "Android":"#51B46D",
+                        "PHP":"#665885",
+                        "Wordpress":"#9D8AC7",
+                        "Design":"#E0AB18",
+                        "Development Tools":"#556B7C",
                         "others": "#e2e5e8",
                         "none":"#D4D9DD"
                     };
